@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
+
+<h2><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2><p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=shreynavadia&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs">
 </p>
