@@ -4,7 +4,7 @@ I'm a passionate software developer with a strong foundation in computer science
 
 - 🎓 **Education**: Pursuing a Master of Science in Computer Science at The University of Texas at Arlington (GPA: 3.8/4.0).
 - 💼 **Current Role**: Software Engineer Intern at Magellan Health, focusing on server-side application development using C#/ASP.NET.
-- 🌐 **Portfolio**: [shreynavadia.github.io](https://shreynavadia.github.io)
+- 🌐 **Blog**: [shreynavadia.com](https://shreynavadia.vom)
 
 ## 🛠️ Technical Skills
 
