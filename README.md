@@ -1,4 +1,4 @@
-# Hi there, I'm Shreykumar Navadia! 👋
+# Hi there, I'm Shreykumar! 👋
 
 I'm a passionate software developer with a strong foundation in computer science and a deep interest in building intelligent systems using AI and cutting-edge technologies.
 
@@ -41,7 +41,7 @@ I'm a passionate software developer with a strong foundation in computer science
 ## 🚀 Current Project
 
 ### **[MediGuide - Chrome Extension for Medicine Information](https://github.com/shreynavadia/built-in-ai-chrome-mediguide-extension)**  
-An AI-powered Chrome extension that uses **Chrome’s built-in AI prompt API** to deliver real-time medicine insights. It intelligently detects medicine pages, extracts key data, and presents information like descriptions, dosages, and side effects in a sleek UI.
+A Chrome extension that uses **Chrome’s built-in AI prompt API** to deliver real-time medicine insights. It intelligently detects medicine pages, extracts key data, and presents information like descriptions, dosages, and side effects in a sleek UI.
 
 ---
 
