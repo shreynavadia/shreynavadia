@@ -1,28 +1,35 @@
-# Hi there, I'm Shreykumar Navadia! 👋
+# 👋 Hi, I'm Shreykumar Navadia
 
-I'm a passionate software developer with a strong foundation in computer science and hands-on experience in full-stack development and DevOps practices.
+I'm a software developer passionate about building efficient systems and solving real-world problems with technology. Currently, I’m exploring **AI and ML models** to uncover how machines can interpret complex data patterns and drive meaningful insights.
 
-- 🎓 **Education**: Pursuing a Master of Science in Computer Science at The University of Texas at Arlington (GPA: 3.8/4.0).
-- 💼 **Current Role**: Software Engineer Intern at Magellan Health, focusing on server-side application development using C#/ASP.NET.
-- 🌐 **Blog**: [shreynavadia.com](https://shreynavadia.vom)
+---
 
-## 🛠️ Technical Skills
+## 🌟 About Me
+- 🎓 Pursuing **M.S. in Computer Science** at **UT Arlington** (GPA: 3.8/4.0).
+- 💡 Learning: Building **AI/ML models** like recommendation systems and reinforcement learning agents.
+- 🔭 Recent Project: A **restaurant recommendation system** powered by real-time data, capable of handling 10,000+ user requests daily.
+- 🛠 Tech Stack: Python, React, Node.js, C#, AWS, and Docker.
 
-- **Languages**: C, C++, C#, Python, Java, JavaScript, SQL
-- **Web Development**: HTML, CSS, React, Angular, Node.js, Django, Flask
-- **Tools & Technologies**: Git, Docker, AWS (EC2, S3, CloudFormation), CI/CD pipelines
+---
 
 ## 🚀 Projects
+- **[Context-Aware Recommendation System](https://github.com/shreynavadia/project-link)**  
+  Personalized recommendations with sub-second response times using Python, Flask, React, and AWS.  
+- **[Pacman AI Simulator](https://github.com/shreynavadia/pacman-ai)**  
+  Pathfinding accuracy of over 95% using A* and Q-Learning.
 
-- **Context-Aware Recommendation System**: Developed a real-time restaurant recommendation engine using Python, Flask, React, and AWS, achieving double the recommendation accuracy.
-- **Pacman AI Simulator**: Created a Pacman simulator with over 95% pathfinding accuracy utilizing A* and Q-Learning algorithms.
+---
 
-## 📈 GitHub Stats
+## 📊 Stats
+![Shreykumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreynavadia&show_icons=true&hide_title=true&theme=default)
 
-![Shreykumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreynavadia&show_icons=true&theme=radical)
+---
 
-## 📫 Let's Connect
+## 🌐 Let's Connect
+- 📧 **Email**: [navadiashrey@gmail.com](mailto:navadiashrey@gmail.com)  
+- 🔗 **LinkedIn**: [linkedin.com/in/shreynavadia](https://linkedin.com/in/shreynavadia)  
+- 💻 **Portfolio**: [shreynavadia.github.io](https://shreynavadia.github.io)
 
-- **Email**: [navadiashrey@gmail.com](mailto:navadiashrey@gmail.com)
-- **LinkedIn**: [linkedin.com/in/shreynavadia](https://linkedin.com/in/shreynavadia)
-- **GitHub**: [github.com/shreynavadia](https://github.com/shreynavadia)
+---
+
+> 💡 *“Machine learning isn’t just about models; it’s about understanding the hidden stories within data.”*
