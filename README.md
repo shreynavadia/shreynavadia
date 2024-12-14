@@ -1,6 +1,6 @@
 # Hi there, I'm Shreykumar! 👋
 
-I'm a passionate software developer with a strong foundation in computer science and a deep interest in building intelligent systems using AI and cutting-edge technologies.
+I'm a Software Engineer who enjoys building smart systems with AI and solving real-world problems— with a good playlist in the background.
 
 - 🎓 **Education**: Master of Science in Computer Science at The University of Texas at Arlington (GPA: 3.8/4.0).  
 - 💼 **Current Role**: Software Engineer Intern at [Magellan Health](https://www.magellanhealth.com/).  
