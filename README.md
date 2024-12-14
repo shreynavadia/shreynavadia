@@ -7,6 +7,13 @@ I'm a Software Engineer who enjoys building smart systems with AI and solving re
 
 ---
 
+## 🌐 Let's Connect
+
+- 📧 **Email**: [navadiashrey@gmail.com](mailto:navadiashrey@gmail.com)  
+- 🔗 **LinkedIn**: [linkedin.com/in/shreynavadia](https://linkedin.com/in/shreynavadia)  
+- 💻 **GitHub**: [github.com/shreynavadia](https://github.com/shreynavadia)  
+---
+
 ## 🛠️ Technical Skills
 
 ### **Programming Languages**
@@ -48,11 +55,3 @@ A Chrome extension that uses **Chrome’s built-in AI prompt API** to deliver re
 ## 📈 GitHub Stats
 
 ![Shreykumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreynavadia&show_icons=true&theme=default)
-
----
-
-## 🌐 Let's Connect
-
-- 📧 **Email**: [navadiashrey@gmail.com](mailto:navadiashrey@gmail.com)  
-- 🔗 **LinkedIn**: [linkedin.com/in/shreynavadia](https://linkedin.com/in/shreynavadia)  
-- 💻 **GitHub**: [github.com/shreynavadia](https://github.com/shreynavadia)  
