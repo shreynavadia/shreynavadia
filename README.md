@@ -7,15 +7,15 @@ I'm a Software Engineer who enjoys building smart systems with AI and solving re
 
 ---
 
-## 🌐 Let's Connect
+## Let's Connect
 
-- 📧 **Email**: [navadiashrey@gmail.com](mailto:navadiashrey@gmail.com)  
-- 🔗 **LinkedIn**: [linkedin.com/in/shreynavadia](https://linkedin.com/in/shreynavadia)  
-- 💻 **Blog**: [shreynavadia.com](https://shreynavadia.com)
-- 📜 **Resume**: [navadiashrey.pdf](https://navadiashrey.s3.us-east-2.amazonaws.com/Navadia+Shrey.pdf)
+- **Email**: [navadiashrey@gmail.com](mailto:navadiashrey@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/shreynavadia](https://linkedin.com/in/shreynavadia)  
+- **Blog**: [shreynavadia.com](https://shreynavadia.com)
+- **Resume**: [navadiashrey.pdf](https://navadiashrey.s3.us-east-2.amazonaws.com/Navadia+Shrey.pdf)
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### **Programming Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -46,13 +46,13 @@ I'm a Software Engineer who enjoys building smart systems with AI and solving re
 
 ---
 
-## 🚀 Current Project
+## Current Project
 
 ### **[MediGuide - Chrome Extension for Medicine Information](https://github.com/shreynavadia/built-in-ai-chrome-mediguide-extension)**  
 A Chrome extension that uses **Chrome’s built-in AI prompt API** to deliver real-time medicine insights. It intelligently detects medicine pages, extracts key data, and presents information like descriptions, dosages, and side effects in a sleek UI.
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![Shreykumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreynavadia&show_icons=true&theme=default)
