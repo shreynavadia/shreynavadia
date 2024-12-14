@@ -11,7 +11,8 @@ I'm a Software Engineer who enjoys building smart systems with AI and solving re
 
 - 📧 **Email**: [navadiashrey@gmail.com](mailto:navadiashrey@gmail.com)  
 - 🔗 **LinkedIn**: [linkedin.com/in/shreynavadia](https://linkedin.com/in/shreynavadia)  
-- 💻 **Blog**: [shreynavadia.com](https://shreynavadia.com)  
+- 💻 **Blog**: [shreynavadia.com](https://shreynavadia.com)
+- 📜 **Resume**: [navadiashrey.pdf](https://navadiashrey.s3.us-east-2.amazonaws.com/Navadia+Shrey.pdf)
 ---
 
 ## 🛠️ Technical Skills
