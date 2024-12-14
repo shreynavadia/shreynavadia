@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2><p align="center">
+<h2><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
   <img src ="https://github-readme-stats.vercel.app/api?username=shreynavadia&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs">
-</p>
+
